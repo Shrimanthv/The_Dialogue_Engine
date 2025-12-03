@@ -1,0 +1,9 @@
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+torchtext==0.18.0
+transformers==4.42.1
+tensorflow
+sentencepiece
+numpy==1.26
+streamlit 
