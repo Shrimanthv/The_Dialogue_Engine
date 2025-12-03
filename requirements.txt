@@ -1,9 +1,8 @@
-torch==2.8.0
-torchvision==0.23.0
-torchaudio==2.8.0
-# torchtext==0.18.0
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
 transformers==4.42.1
 tensorflow
 sentencepiece
-numpy==1.26
-streamlit 
+numpy==1.26.0
+streamlit
