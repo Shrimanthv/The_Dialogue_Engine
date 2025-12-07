@@ -135,8 +135,6 @@ Shrimanth V
 
 Email: shrimanthv99@gmail.com
 
-GitHub: [Your GitHub Profile Link]
-
-LinkedIn: [Your LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/shrimanth-v-37786b2a0/
 
 Feel free to reach out for questions or collaboration!
