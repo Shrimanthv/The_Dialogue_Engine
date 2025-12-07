@@ -1,7 +1,6 @@
 # 🤖 The Dialogue Engine — BlenderBot Chatbot Deployment
 
 ## Table of Contents
-- [Demo](#demo)
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Features](#features)
@@ -14,11 +13,6 @@
 - [Technology Used](#technology-used)
 - [Author](#author)
 ---
-## Demo
-🚀 Live App – [Insert Link to Live Streamlit App Here]
-
-Click the link above to test The Dialogue Engine! Interact with the BlenderBot model, adjust generation settings (Temperature and Max Tokens), and experience the custom chat interface.
-
 ## Overview
 The Dialogue Engine is an interactive, web-based conversational AI application built using Streamlit and the BlenderBot-400M-distill model from the Hugging Face Transformers library. The project demonstrates the full lifecycle of deploying a sequence-to-sequence (Seq2Seq) conversational model, from initial model loading in a Jupyter Notebook to a polished, professional web interface.
 
